@@ -1,6 +1,6 @@
-# Oasis High School Workshop: Introduction to Web Coding!
+# Oasis Spring Workshop 3: Introduction to the Web!
 
-Welcome to the Oasis workshop and congratulations on starting to learn about web development! Learning about the basic technologies used in this field will allow you to build your own personal projects, website, apps, etc. And it's fun!
+Welcome to the third Oasis workshop and congratulations on starting to learn about web development! Learning about the basic technologies used in this field will allow you to build your own personal projects, website, apps, etc. And it's fun!
 
 Creating websites and web apps is an extremely rewarding experience, as the software you make is easily testable and accessible by anyone on the web.
 
@@ -10,7 +10,7 @@ We will then be introducing the three "Languages of the Web"--HTML, CSS, and Jav
 
 While this will be an introduction, it will set you up to continue learning and growing in these skills.
 
-**Slides:** [https://docs.google.com/presentation/d/11QaNbCou_zZQlT1EehnWABhwGE4IT4-IsQzWNn4BTv8/edit?usp=sharing](https://docs.google.com/presentation/d/11QaNbCou_zZQlT1EehnWABhwGE4IT4-IsQzWNn4BTv8/edit?usp=sharing)
+**Slides:** [https://docs.google.com/presentation/d/1XB3Ci-tptTn7UReAy4NlzzV2KN-hxGTx1CdAPFzwB1E/edit?usp=sharing](https://docs.google.com/presentation/d/1XB3Ci-tptTn7UReAy4NlzzV2KN-hxGTx1CdAPFzwB1E/edit?usp=sharing)
 
 ## Optional readings
 
@@ -25,7 +25,7 @@ If you're just getting started (**recommended**):
 1. Go to the Repl.it link in each folder and click Fork
 
 
-If you want to use your own IDE (not recommended for beginners)
+If you want to use your own IDE (if you know how!)
 1. Clone this Github repository into a new folder on your machine (in Terminal or Command Prompt, type `git clone REPO_URL`, where REPO_URL is the clone repository found on the top of this page
 2. You're all set! Just have the cloned folder easily accessible and follow along with the workshop to start writing web code
 
