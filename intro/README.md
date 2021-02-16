@@ -1,6 +1,6 @@
 # Intro to Web Coding: Intro
 
-**To get started, open this project in Repl.it and then head back here**: [https://repl.it/@chessmyers/Intro](https://repl.it/@chessmyers/Intro) 
+**To get started, open this project in Repl.it, Fork it (you may have to sign in to Github), and then head back here**: [https://repl.it/@chessmyers/Intro](https://repl.it/@chessmyers/Intro) 
 
 (Repl.it just lets us write/execute HTML/CSS/JavaScript code in your browser, but normally this would be done on your computer)
 
